@@ -1,0 +1,56 @@
+[
+    {
+      "title": "Televisor",
+      "description": "tele curvo",
+      "price": 100000,
+      "thumbnail": "https://www.shutterstock.com/image-illustration/ultra-high-definition-digital-television-screen-551106277",
+      "code": "6tv",
+      "stock": 6,
+      "id": 1
+    },
+    {
+      "title": "Home-Theater",
+      "description": "sonido",
+      "price": 50000,
+      "thumbnail": "https://www.shutterstock.com/image-vector/home-theater-isolated-on-white-background-443235298",
+      "code": "20home",
+      "stock": 20,
+      "id": 2
+    },
+    {
+      "title": "Tablet",
+      "description": "tablet",
+      "price": 10000,
+      "thumbnail": "https://www.shutterstock.com/image-vector/realistic-horizontal-black-tablet-pc-pad-1911674188",
+      "code": "3tab",
+      "stock": 3,
+      "id": 3
+    },
+    {
+      "title": "Celular Android",
+      "description": "celular",
+      "price": 55500,
+      "thumbnail": "https://www.shutterstock.com/image-vector/3d-high-quality-vector-mobile-mockups-2121419597",
+      "code": "5celu",
+      "stock": 5,
+      "id": 4
+    },
+    {
+      "title": "Silla Gamer",
+      "description": "sillagamer",
+      "price": 60000,
+      "thumbnail": "https://www.shutterstock.com/image-photo/chair-gming-red-color-on-white-1559457968",
+      "code": "5silla",
+      "stock": 5,
+      "id": 5
+    },
+    {
+      "title": "Auriculares",
+      "description": "auriculares",
+      "price": 150000,
+      "thumbnail": "https://www.shutterstock.com/image-photo/blue-headphones-isolated-on-white-background-732459253",
+      "code": "5auris",
+      "stock": 5,
+      "id": 6
+    }
+  ]
